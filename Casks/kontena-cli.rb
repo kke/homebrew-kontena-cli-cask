@@ -1,6 +1,6 @@
 cask 'kontena-cli' do
-  version '1.1.1'
-  sha256 'a764f33f7b87ddbfcb844d09180956519c049b8b54c18967020741f17c39de96'
+  version '1.1.2'
+  sha256 '31f4f4bbc8d995ebfb7bf32904d7f55eea5801f3bb33bb01d841bb3b34553d18'
 
   # github.com was verified as official when first introduced to the cask
   url "https://github.com/kontena/kontena/releases/download/v#{version}/kontena-cli-osx-v#{version}-amd64.pkg"
